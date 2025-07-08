@@ -23,4 +23,4 @@ This Bash script displays basic system status information in a clear and readabl
 1. Clone the repository:
    ```bash
    git clone https://github.com/your_username/your_repository_name.git
-   cd your_repository_name
+   cd bash-system-monitor
